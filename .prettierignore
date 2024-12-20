@@ -1,0 +1,13 @@
+# 构建产物
+dist
+build
+
+# 依赖
+node_modules
+
+# 其他不需要格式化的文件
+*.min.js
+*.min.css
+package-lock.json
+yarn.lock
+pnpm-lock.yaml 
